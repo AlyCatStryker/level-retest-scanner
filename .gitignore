@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# OS junk
+.DS_Store
